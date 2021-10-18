@@ -1,1 +1,1 @@
-# tranning.lny
+# training.lny
